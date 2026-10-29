@@ -1,0 +1,10 @@
+# External Dependencies for CrashSense-Node (Node 1)
+LiquidCrystal I2C         | >= 1.1.2  | Arduino Library Manager (by Frank de Brabander)
+Adafruit MPU6050          | >= 2.2.6  | Arduino Library Manager (by Adafruit)
+Adafruit Unified Sensor   | >= 1.1.14 | Arduino Library Manager (by Adafruit)
+
+# External Dependencies for Telemetry-Gateway-Node (Node 2)
+Adafruit SH110X           | >= 2.1.10 | Arduino Library Manager (by Adafruit)
+Adafruit GFX Library      | >= 1.11.9 | Arduino Library Manager (by Adafruit)
+DHT sensor library        | >= 1.4.6  | Arduino Library Manager (by Adafruit)
+Adafruit Unified Sensor   | >= 1.1.14 | Arduino Library Manager (by Adafruit)
